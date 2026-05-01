@@ -7,7 +7,7 @@ export const shopItems = [
     {
         id: '5684586',
         name: 'Extra Work Shift',
-        price: 5000,
+        price: 35.00,
         description: 'Allows 1 extra use of the `/work` command.',
         type: 'Hoodie',
         maxQuantity: 5,
